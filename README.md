@@ -80,4 +80,4 @@ Si deseas ajustar el umbral de detección de pasos, puedes modificar el código 
 
 ## 👨‍💻 Créditos
 
-Desarrollado por [Ramiro Estigarribia con ayuda de ChatGPT](https://github.com/ramiroec).
+Desarrollado por [Ramiro Estigarribia](https://github.com/ramiroec).
